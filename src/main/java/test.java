@@ -3,5 +3,7 @@ public class test {
         System.out.println("git 测试");
         System.out.println("main git 测试");
         System.out.println("fix git 测试");
+        System.out.println("fix git 测试");
+        System.out.println("fix git 测试");
     }
 }
